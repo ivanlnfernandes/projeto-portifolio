@@ -208,6 +208,10 @@ section#detalhes {
     gap: 20px;
 }
 
+#projeto-container a {
+    text-decoration: none;
+}
+
 #projeto-container .projeto {
     display: flex;
     flex-direction: column;
